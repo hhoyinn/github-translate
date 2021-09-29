@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name                GitHub Translate
 // @name:zh-CN          GitHub 汉化脚本
-// @namespace           https://github.com/Iuleoo/GitHub_loc
+// @namespace           https://github.com/hhoyinn/github-translate
 // @version             0.1
 // @description         Translate GitHub.com
 // @description:zh      GitHub汉化插件，含个性翻译
