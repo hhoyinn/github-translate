@@ -42,6 +42,9 @@
     "dec": "12月",
     "december": "12月",
 
+    "years ago": "年前",
+    "months ago": "个月前",
+    "days ago": "天前",
     "hours ago": "小时前",
     "minutes ago": "分钟前",
 
@@ -186,13 +189,13 @@
     "no recovery tokens": "未设置恢复令牌",
 
     "__comments-6": "User home",
-    "signed in as": "登录身份为",
-    "set status": "状态设置",
     "new repository": "新建仓库",
     "import repository": "导入仓库",
     "new gist": "新建代码片段",
     "new organization": "新建组织",
     "new project": "新建项目",
+    "signed in as": "登录身份为",
+    "set status": "状态设置",
     "your profile": "我的个人资料",
     "your repositories": "我的仓库",
     "your organizations": "我的组织",
@@ -204,7 +207,7 @@
     "feature preview": "功能预览",
     "sign out": "退出",
     "pull requests": "拉取请求",
-    "marketplace": "应用商城",
+    "marketplace": "集市",
     "explore": "探索",
     "issues": "议题",
     "overview": "概况",
@@ -534,6 +537,8 @@
     "dismiss for all repositories": "在所有仓库关闭",
     "there aren’t any open pull requests.": "没有任何打开的拉取请求。",
     "no results matched your search.": "没有与您的搜索相符的结果。",
+    "you could search": "您可以搜索",
+    "or try an": "或尝试",
 
     "this pull request is still a work in progress": "此拉取请求仍在进行中",
     "draft pull requests cannot be merged.": "拉取请求草案不能被合并。",
@@ -1074,7 +1079,7 @@
 
     "__comments-Repository": "仓库",
     "repository default branch": "仓库默认分支",
-    "choose the default branch for your new personal repositories. you might want to change the default name due to different workflows, or because your integrations still require “master” as the default branch name. you can always change the default branch name on individual repositories.": "为您新的个人仓库选择默认的分支。由于工作流程的不同，或者由于您的集成仍然需要 “master ”作为默认分支名，您可能想改变默认名称。您可以随时改变个人仓库的默认分支名称。",
+    "choose the default branch for your new personal repositories. you might want to change the default name due to different workflows, or because your integrations still require “master” as the default branch name. you can always change the default branch name on individual repositories.": "为您新的个人仓库选择默认的分支。由于工作流程的不同，或者由于您的集成仍然需要 “master” 作为默认分支名，您可能想改变默认名称。您可以随时改变个人仓库的默认分支名称。",
     "learn more about default branches.": "了解有关默认分支的更多信息。",
     "deleted repositories": "删除的仓库",
     "it may take up to an hour for repositories to be displayed here. you can only restore repositories that have no forks or have not been forked.": "仓库可能需要一个小时的时间才能显示在这里。您只能恢复没有复刻或没有被复刻的仓库。",
@@ -1447,6 +1452,7 @@
 
     "__comments-advanced-search": "Advanced search",
     "you could try an": "您可以尝试",
+    "all of GitHub": "所有 GitHub",
     "advanced search": "高级搜索",
     "search": "搜索",
     "advanced options": "高级选项",
