@@ -806,7 +806,7 @@
 
     "danger zone": "危险区",
     "change repository visibility": "更改仓库可见性",
-    "you cannot change the visibility of a fork. please": "您无法更改复刻仓库的可见性。请",
+    "the repository network shows the 100 most recently pushed forks. do you cannot change the visibility of a fork. please": "您无法更改复刻仓库的可见性。请",
     "duplicate the repository": "复制仓库",
     "for security reasons, you cannot change the visibility of a fork.": "出于安全原因，您无法更改复刻仓库的可见性。",
     "change visibility": "更改可见性",
