@@ -395,6 +395,7 @@
     "(optional)": "(可选)",
     "public": "公共",
     "private": "私有",
+    "internal": "互联网",
     "public archive": "公共存档",
     "private archive": "私有存档",
     "environments": "环境",
@@ -697,8 +698,8 @@
     "oldest": "最早",
     "most commented": "最多评论",
     "least commented": "最少评论",
-    "recently updated": "近期更新内容",
-    "least recently updated": "最近最少更新",
+    "recently updated": "近期更新",
+    "least recently updated": "最新近期更新",
     "most reactions": "回复最多",
     "reviews": "审查",
     "filter by reviews": "按审查过滤",
@@ -1758,6 +1759,14 @@
     "this will delete the information for this draft.": "这将会删除该草案的信息。",
     "delete this draft": "删除草案",
 
+
+    "visibility:": "选择可见性",
+    "select visibility": "选择可见性",
+    "sort by:": "排序方式：",
+    "select sort view": "选择排序视图",
+    "most downloads": "最多下载",
+    "least downloads": "最少下载",
+
     "__comments-Other": "其他",
     "save changes": "保存更改",
     "updated": "更新于",
@@ -1802,6 +1811,14 @@
     "organization": "组织",
     "filter by organization or owner": "按组织或所有者过滤",
     "filter organizations": "按组织过滤",
+
+    "Linked repositories:": "链接存储库：",
+
+    "__comments-OTHER": "其他",
+    "opensource": "开源",
+    "archive": "存档",
+    "engine":"引擎",
+    "video": "视频",
 
     "__dict-end": "end"
   }
