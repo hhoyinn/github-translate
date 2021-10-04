@@ -1661,7 +1661,8 @@
     "give us feedback": "给我们反馈",
     "on your usage of this feature.": "关于您对该功能的使用。",
     "keyboard shortcuts available": "可用的键盘快捷键",
-    "woah, this network is huge! We’re showing only some of this network’s repositories.": "哇，这个网络太大了！我们只展示了这个网络的一些仓库。",
+    "woah, this network is huge!": "哇，这个网络太大了！",
+    "we’re showing only some of this network’s repositories.": "我们只展示了这个网络的一些仓库。",
 
     "__comments-workflows": "workflows",
     "workflows": "工作流程",
